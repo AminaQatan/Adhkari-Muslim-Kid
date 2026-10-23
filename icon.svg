@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+ <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#237c80"/><stop offset="1" stop-color="#0c505f"/></linearGradient><linearGradient id="paper" x2="0" y2="1"><stop stop-color="#fff8df"/><stop offset="1" stop-color="#efd7a6"/></linearGradient></defs>
+ <path fill="url(#bg)" d="M0 0h512v512H0z"/>
+ <circle cx="256" cy="256" r="174" fill="none" stroke="#fff8df" stroke-opacity=".12" stroke-width="2"/>
+ <circle cx="256" cy="256" r="157" fill="#ffffff" fill-opacity=".035"/>
+ <path d="M267 118a57 57 0 1 0 64 83 47 47 0 0 1-64-83" fill="#f4ca72"/>
+ <path d="m181 161 5 12 13 4-13 5-5 13-4-13-13-5 13-4zM335 137l4 9 10 3-10 4-4 10-3-10-10-4 10-3zM351 222l4 9 10 3-10 4-4 10-3-10-10-4 10-3z" fill="#ffe4a3"/>
+ <path d="M134 269q64-19 122 13 58-32 122-13v109q-68-17-122 11-54-28-122-11z" fill="#073d49" opacity=".45"/>
+ <path d="M132 251q67-17 124 15 57-32 124-15v110q-67-15-124 14-57-29-124-14z" fill="#e8af62"/>
+ <path d="M141 242q62-15 115 16v106q-53-28-115-14zM371 242q-62-15-115 16v106q53-28 115-14z" fill="url(#paper)"/>
+ <path d="M256 258v106" stroke="#c5a16b" stroke-width="4"/>
+ <path d="M158 268q41-6 77 11M158 290q41-6 77 11M158 312q41-6 60 4M354 268q-41-6-77 11M354 290q-41-6-77 11M354 312q-41-6-60 4" fill="none" stroke="#bb9560" stroke-width="4" stroke-linecap="round" opacity=".6"/>
+ <path d="M283 256q11-4 19-5v43l-10-7-9 10z" fill="#bd5f72"/>
+</svg>
